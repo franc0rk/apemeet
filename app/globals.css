@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.my-full {
+  height: calc(100vh - 100px);
+}
